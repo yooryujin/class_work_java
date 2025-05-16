@@ -28,7 +28,7 @@ public class BackgroundPlayerService implements Runnable {
     // start() 메서드가 호출 되면 동작 하도록 약속 되어 있다.
     @Override
     public void run() {
-        // 색상 확인 보정값 필요
+        // 색상 확인 보정값 필요.
         while (true) {
             // RGB
             // R - 0 ~ 255, G - 0 ~ 255, B - 0 ~ 255;
