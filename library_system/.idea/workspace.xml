@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65ed20c-81e2-4885-b704-82ad3ea388ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dao/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/BorrowDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/StudentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Borrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/LibraryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/LibraryView.java" afterDir="false" />
-    </list>
+    <list default="true" id="c65ed20c-81e2-4885-b704-82ad3ea388ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "Feature-bookDAO",
-    "last_opened_file_path": "C:/class_work_java/library_system/ilb",
+    "last_opened_file_path": "C:/class_work_java/library_system",
     "onboarding.tips.debug.path": "C:/class_work_java/library_system/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
