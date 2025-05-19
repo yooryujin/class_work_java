@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c65ed20c-81e2-4885-b704-82ad3ea388ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/library_system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dto/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/class_work_java/library_system/lib",
     "onboarding.tips.debug.path": "C:/class_work_java/library_system/src/Main.java",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
