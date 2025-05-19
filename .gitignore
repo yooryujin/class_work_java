@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,intellij,java,visualstudiocode,eclipse
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,intellij,java,visualstudiocode,eclipse
+# Created by https://www.toptal.com/developers/gitignore/api/java,windows,macos,eclipse,intellij,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,windows,macos,eclipse,intellij,visualstudiocode
 
 ### Eclipse ###
 .metadata
@@ -280,8 +280,9 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+*.imi
 
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,intellij,java,visualstudiocode,eclipse
+# End of https://www.toptal.com/developers/gitignore/api/java,windows,macos,eclipse,intellij,visualstudiocode

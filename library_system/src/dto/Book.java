@@ -1,11 +1,9 @@
 package dto;
 import lombok.*;
 
-@Getter
-@Setter
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
-@ToString
 
 public class Book {
 
